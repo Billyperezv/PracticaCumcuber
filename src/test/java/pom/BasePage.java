@@ -3,8 +3,10 @@ package pom;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.Select;
 
 import java.security.cert.Extension;
+import java.util.List;
 
 public class BasePage {
 
@@ -38,6 +40,41 @@ public class BasePage {
 
             throw new Exception("El elento no esta visible en el DOM"+ elment.toString());
         }
+
+    }
+
+    public  WebElement findElemt (By locator){
+        return driver.findElement(locator);
+
+    }
+
+    public List<WebElement> findElements(By locator){
+
+        return  driver.findElements(locator);
+
+    }
+
+    public String getText(WebElement element){
+        return element.getText();
+
+
+    }
+
+    public String getText(By element){
+        return driver.findElement(element).getText();
+
+
+    }
+
+
+    public Select dropDown (WebElement element){
+
+        return dropDown(element);
+    }
+
+    public  void  teclear (String inputText,By locator ){
+        driver.findElement(locator).sendKeys(inputText);
+
 
     }
 

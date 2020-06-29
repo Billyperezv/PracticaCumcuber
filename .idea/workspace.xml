@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="044a7265-6c2e-4e42-a488-6f21e0b3b70a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/pom/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pom/PageContact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pom/PageFlights.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pom/PageHotels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pom/PageRegister.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pom/PageSignOn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pom/PageSupport.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pom/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pom/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/seleniumgluecode/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/seleniumgluecode/TestBase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +39,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/eclipse-workspace/PracticaCucumber" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RunManager">
@@ -101,6 +110,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="327" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1593205292165" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1593468939151">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1593468939151" />
     <state width="1323" height="28" key="GridCell.Tab.0.bottom" timestamp="1593105439194">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -121,9 +134,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1593098702869" />
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1593205465358">
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1593206312536">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1593205465358" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1593206312536" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1593467121060">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1593467121060" />
   </component>
 </project>
